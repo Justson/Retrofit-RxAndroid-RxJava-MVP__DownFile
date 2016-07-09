@@ -1,0 +1,6 @@
+CHANGED,F:\studio\project\just_retrofit_downfile\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,F:\studio\project\just_retrofit_downfile\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\qypt\just\just_retrofit_downfile\ProgressDialog$override.class
+CHANGED,F:\studio\project\just_retrofit_downfile\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\qypt\just\just_retrofit_downfile\Model\DownModel$1$override.class
+CHANGED,F:\studio\project\just_retrofit_downfile\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\qypt\just\just_retrofit_downfile\Presenter\MainPresenter$override.class
+CHANGED,F:\studio\project\just_retrofit_downfile\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\qypt\just\just_retrofit_downfile\Model\DownModel$override.class
+CHANGED,F:\studio\project\just_retrofit_downfile\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\qypt\just\just_retrofit_downfile\MainActivity$override.class
